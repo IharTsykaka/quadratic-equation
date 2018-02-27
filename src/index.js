@@ -22,5 +22,4 @@ module.exports = function solveEquation(equation) {
     arrEquation = [x1, x2];
   }
   return arrEquation;
-  }
 }
